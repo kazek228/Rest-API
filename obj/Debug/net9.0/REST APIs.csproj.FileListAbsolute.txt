@@ -1,0 +1,92 @@
+D:\REST APIs\bin\Debug\net9.0\REST APIs.exe
+D:\REST APIs\bin\Debug\net9.0\REST APIs.deps.json
+D:\REST APIs\bin\Debug\net9.0\REST APIs.runtimeconfig.json
+D:\REST APIs\bin\Debug\net9.0\REST APIs.dll
+D:\REST APIs\bin\Debug\net9.0\REST APIs.pdb
+D:\REST APIs\obj\Debug\net9.0\REST APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\REST APIs\obj\Debug\net9.0\REST APIs.AssemblyInfoInputs.cache
+D:\REST APIs\obj\Debug\net9.0\REST APIs.AssemblyInfo.cs
+D:\REST APIs\obj\Debug\net9.0\REST APIs.csproj.CoreCompileInputs.cache
+D:\REST APIs\obj\Debug\net9.0\REST APIs.dll
+D:\REST APIs\obj\Debug\net9.0\refint\REST APIs.dll
+D:\REST APIs\obj\Debug\net9.0\REST APIs.pdb
+D:\REST APIs\obj\Debug\net9.0\REST APIs.genruntimeconfig.cache
+D:\REST APIs\obj\Debug\net9.0\ref\REST APIs.dll
+D:\REST APIs\bin\Debug\net9.0\appsettings.Development.json
+D:\REST APIs\bin\Debug\net9.0\appsettings.json
+D:\REST APIs\bin\Debug\net9.0\REST APIs.staticwebassets.runtime.json
+D:\REST APIs\bin\Debug\net9.0\REST APIs.staticwebassets.endpoints.json
+D:\REST APIs\obj\Debug\net9.0\REST APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\REST APIs\obj\Debug\net9.0\REST APIs.RazorAssemblyInfo.cache
+D:\REST APIs\obj\Debug\net9.0\REST APIs.RazorAssemblyInfo.cs
+D:\REST APIs\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\REST APIs\obj\Debug\net9.0\scopedcss\bundle\REST APIs.styles.css
+D:\REST APIs\obj\Debug\net9.0\scopedcss\projectbundle\REST APIs.bundle.scp.css
+D:\REST APIs\obj\Debug\net9.0\compressed\i11p3xcwdx-b9sayid5wm.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\a3m3tojyte-61n19gt1b8.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\9wtcgy4z7g-xtxxf3hu2r.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\mt2lyvt8zk-bqjiyaj88i.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\hlmwh99h6q-c2jlpeoesf.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\sg3gpr4t40-erw9l3u2r3.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\rjys8d6rr3-aexeepp0ev.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\boh69wpklm-d7shbmvgxk.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\pn1bpqb1cc-ausgxo2sd3.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\g5iu4modg5-k8d9w2qqmf.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\kg9ss97ed2-cosvhxvwiu.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\8r0aywn8bi-ub07r2b239.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\mye8giwqjt-fvhpjtyr6v.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\dslwktiwwc-b7pk76d08c.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\li3jm69hl5-fsbi9cje9m.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\s49bulq4pv-rzd6atqjts.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\4xxemvib9a-ee0r1s7dh0.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\vkssir9m3k-dxx9fxp4il.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\71bbxroz6w-jd9uben2k1.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\wh9yvw9n05-khv3u5hwcm.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\84niux35te-r4e9w2rdcm.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\1vtohcrfb7-lcd1t2u6c8.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\5c54bjd29m-c2oey78nd0.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\8rhngp4pfl-tdbxkamptv.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\o4qeuu2i98-j5mq2jizvt.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\eht9ngq4xt-06098lyss8.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\wgvecpbjs8-nvvlpmu67g.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\sf28jzbaqw-s35ty4nyc5.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\qf8qbovnkl-pj5nd1wqec.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\qspj4rydvi-46ein0sx1k.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\1c20n2a4j1-v0zj4ognzu.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\emicedzvr8-37tfw0ft22.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\rjpiq3bail-hrwsygsryq.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\jkvwrqczro-pk9g2wxc8p.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\u4u51nxfop-ft3s53vfgj.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\7lf9pk1r14-6cfz1n2cew.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\asyb7tvoju-6pdc2jztkx.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\jhmdoje7dl-493y06b0oq.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\5xgumnlwq5-iovd86k7lj.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\ix4yhpppgv-vr1egmr9el.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\vq9127lk0f-kbrnm935zg.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\61rx2lcinv-jj8uyg4cgr.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\jbnieeoh6g-y7v9cxd14o.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\85ob7y3dym-notf2xhcfb.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\96ukeh3dod-h1s4sie4z3.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\r35kg4ll9x-63fj8s7r0e.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\vamq5m28ai-0j3bgjxly4.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\54tap2gn26-47otxtyo56.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\dig29k3n34-4v8eqarkd7.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\d6o3xvv5kw-356vix0kms.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\3efss87zcu-83jwlth58m.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\l25ruhkfhv-mrlpezrjn3.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\0fdkbqcbf8-lzl9nlhx6b.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\em4eqh6t9a-ag7o75518u.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\fa08fxjv1r-x0q3zqp4vz.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\f0r1rsi13u-0i3buxo5is.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\fecuwma02i-o1o13a6vjx.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\6m8fzaop7u-ttgo8qnofa.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\2bz5o4sm5s-2z0ns9nrw6.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\b8mv84xx1w-muycvpuwrr.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\r893cr6y1f-87fc7y1x7t.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\xxe5qnut9l-mlv21k5csn.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\aqwgzq6mol-za2pt8egat.gz
+D:\REST APIs\obj\Debug\net9.0\compressed\6grleoj0iv-za2pt8egat.gz
+D:\REST APIs\obj\Debug\net9.0\staticwebassets.build.json
+D:\REST APIs\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\REST APIs\obj\Debug\net9.0\staticwebassets.development.json
+D:\REST APIs\obj\Debug\net9.0\staticwebassets.build.endpoints.json
