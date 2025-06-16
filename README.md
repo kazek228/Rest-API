@@ -13,4 +13,6 @@ This is an ASP.NET Core Web Application (Razor Pages) created using the .NET CLI
 
 3. Open your browser and navigate to `https://localhost:5001` or the URL shown in the terminal output.
 
+4. Use it as designed.
+
 This will build and launch the web application.
